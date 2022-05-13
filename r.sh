@@ -1,1 +1,1 @@
-java -cp classes/main Program
+java -cp classes main/Program
