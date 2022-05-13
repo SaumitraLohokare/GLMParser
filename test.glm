@@ -1,0 +1,15 @@
+clock {
+    timer 1000;
+    something -2;
+}
+
+#set priority 3
+
+module node;
+
+object node {
+    name NodeName;
+    to 71.098374;
+    from 72.385768;
+    dcircuit ieee_feeder1;
+}
